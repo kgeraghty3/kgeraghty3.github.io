@@ -1,0 +1,49 @@
+<html>
+    <body>
+        <h1><center>Kaitlin Geraghty's Portfolio</center></h1>
+         <h2><center>katie.kgeraghty@gmail.com<center></h2>
+          <h2><center>718-608-5151<center></h2>
+    
+        <h2>Education</h2>
+        <ol>
+         <h3>*Master of Arts in Teaching, The College of New Jersey, Ewing, NJ</h3>
+            <h4>Woodrow Wilson Teaching Fellowship (Secondary STEM Education)</h4>
+         <h3>*Bachelor of Arts, Lafayette College, Easton, PA</h3>
+            <h4>Major: Engineering Studies, Mathematics</h4>
+            <h4>Minor: Environmental Science</h4>
+        </ol>
+           
+    <h2>Certifications</h2>
+        <ol>
+         <h3>NY Computer Aided Drafting (CAD) 7-12 Initial</h3>
+         <h3>NY Mathematics 7-12 Initial</h3>
+         <h3>NJ Teacher of Mathematics, Standard</h3>
+         <h3>NJ Teacher of Engineering Technology, Standard<h3>
+        </ol>
+        
+     <h2>Teaching Experiences</h2>
+     <ol>
+         <h3>Staten Island Technical High School</h3>
+            <h4>*CAD</h4>
+                <h5>AutoCAD, Inventor, Revit</h5>
+                <h5>3D Printing/Laser Cutting</h5>
+            <h4>*Advanced CAD</h4>
+                <h5>3D Printing/Laser Cutting</h5>
+            <h4>*STEM</h4>
+                 <h5>Design, Robotics, Coding</h5>
+            <h4>*Precalculus</h4>
+                 
+            
+        <h3>South Orange Middle School</h3>
+            <h4>*6th Grade STEM</h4>
+            <h4>*8th Grade STEM</h4>
+            
+         <h3>STEM Innovation Academy of the Oranges</h3>
+            <h4>*Introduction to Engineering Design (Project Lead the Way)</h4>
+            <h4>*Middle School Gifted and Talented</h4>
+                <h5>Math</h5>
+                <h5>Aerospace Engineering</h5>
+                <h5>3D Modeling and Printing</h5>
+        </ol>
+    <body>
+</html>
